@@ -1,0 +1,39 @@
+.btn {
+  margin-left: 450px;
+  border: 0.5px solid black;
+  border-radius: 15px;
+  background-color: rgb(230, 204, 219);
+}
+
+.container .tabel {
+  margin: 0 auto;
+
+}
+
+.btn-detail {
+  border: 0.5px solid black;
+  border-radius: 10px;
+  background-color: rgb(230, 91, 155);
+}
+
+.nav {
+  top: 0;
+  left: 0;
+  right: 0;
+  border-radius: 10px;
+  font-size: 30px;
+  position: fixed;
+  background: rgb(235, 188, 188);
+  padding: 1rem 7%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1000;
+  box-shadow: 0 .5rem 1.5rem rgba(255, 178, 178, 0.05);
+
+}
+
+body {
+  background-color: rgb(235, 188, 188);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
